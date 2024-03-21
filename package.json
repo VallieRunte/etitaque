@@ -1,0 +1,32 @@
+{
+  "name": "etitaque",
+  "version": "1.0.0",
+  "description": "Scala like Option type for TypeScript",
+  "author": "AngieBayer",
+  "license": "MIT",
+  "main": "index.js",
+  "typings": "index.d.ts",
+  "keywords": [
+    "Option",
+    "sit",
+    "eius",
+    "pariatur"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/VallieRunte/etitaque.git"
+  },
+  "devDependencies": {
+    "@types/mocha": "^2.2.31",
+    "@types/sinon": "^1.16.29",
+    "espower-typescript": "^5.0.1",
+    "mocha": "^2.5.3",
+    "power-assert": "^1.4.1",
+    "rimraf": "^2.5.3",
+    "sinon": "^1.17.4",
+    "typescript": "^1.8.10"
+  },
+  "bugs": {
+    "url": "https://github.com/VallieRunte/etitaque.git/issues"
+  }
+}
